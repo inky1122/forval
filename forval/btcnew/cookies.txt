@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bitcoineranew.com	TRUE	/	FALSE	1999999999	SERVERID	4
+.bitcoineranew.com	TRUE	/	FALSE	1999999999	__cfduid	d9f6797b2979eb3bbfe8f725f4f51c7f91604950927
+bitcoineranew.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
